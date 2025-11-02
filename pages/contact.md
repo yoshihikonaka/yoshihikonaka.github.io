@@ -6,6 +6,7 @@ permalink: "/contact/"
 
 ## Contact Info
 
-- **Email:** <a href="mailto:example@example.com">example@example.com</a>
-- **Phone:** +61 0417 123 XXX
-- **Address:** Clem Jones Promenade, South Brisbane QLD 4101
+- **Admin Officer:** King David Galang
+- **Email:** <a href="mailto:King.Galang@mbzuai.ac.ae">King.Galang@mbzuai.ac.ae</a>
+- **Phone:** +971 2811 3218
+- **Address:** 1B, First Floor, Block C, MBZUAI, Masdar City, Abu Dhabi, United Arab Emirates
