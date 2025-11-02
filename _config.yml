@@ -107,11 +107,11 @@ fonts:
   logo: "'DM Sans'"
 
 logo:
-  logo_text: "Jekyll Curate"
-  logo_image: assets/images/logo/logo.png
-  logo_image_mobile: assets/images/logo/logo-mobile.png
-  logo_image_invert: assets/images/logo/logo-invert.png
-  logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
+  logo_text: "MBZUAI"
+  logo_image: assets/images/logo/logoB.svg
+  logo_image_mobile: assets/images/logo/logoB.svg
+  logo_image_invert: assets/images/logo/logoW.svg
+  logo_image_invert_mobile: assets/images/logo/logoW.svg
   logo_image_desktop_height: "28px"
   logo_image_desktop_width: "28px"
   logo_image_mobile_height: "28px"
