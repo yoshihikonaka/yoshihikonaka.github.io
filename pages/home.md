@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Robotics Department"
-description: "We study the artificial intelligence of robots and open the affluent human society. We are one of eight departments in School of Computation, [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae)."
+title: "Robotics @ MBZUAI"
+description: "We study the artificial intelligence of robots for the affluent human society. We are one of eight graduate departments in Mohamed bin Zayed University of Artificial Intelligence."
 meta_description: "Robotics Department at MBZUAI"
 meta_title: Jekyll Curate
 subscribe: false
