@@ -108,13 +108,13 @@ fonts:
 
 logo:
   logo_text: "MBZUAI"
-  logo_image: assets/images/logo/logoB.svg <a href="https://mbzuai.ac.ae"> 
-  logo_image_mobile: assets/images/logo/logoB.svg <a href="https://mbzuai.ac.ae">
-  logo_image_invert: assets/images/logo/logoW.svg <a href="https://mbzuai.ac.ae">
-  logo_image_invert_mobile: assets/images/logo/logoW.svg <a href="https://mbzuai.ac.ae">
-  logo_image_desktop_height: "200px"
+  logo_image: assets/images/logo/logoB.svg
+  logo_image_mobile: assets/images/logo/logoB.svg
+  logo_image_invert: assets/images/logo/logoW.svg
+  logo_image_invert_mobile: assets/images/logo/logoW.svg
+  logo_image_desktop_height: "80px"
   logo_image_desktop_width: "200px"
-  logo_image_mobile_height: "200px"
+  logo_image_mobile_height: "80px"
   logo_image_mobile_width: "200px"
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
@@ -157,7 +157,7 @@ comments:
 newsletter:
   mailchimp:
     form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
-    form_title: "Let's keep in touch"
+    form_title: "Inquiries"
 
 contact_form: 
   use_netlify_form: false

@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Curate is a premium portfolio for <strong>Jekyll.</strong>"
-description: "Showcase your projects, work or case studies in style with this markdown powered portfolio theme for Jekyll."
-meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate - Premium Portfolio Theme
+title: "Robotics Department"
+description: "We study the artificial intelligence of robots and open the affluent human society. We are one of eight departments in School of ComputatiSomeon, Mohamed bin Zayed University of Artificial Intelligence."
+meta_description: "Robotics Department at MBZUAI"
+meta_title: Jekyll Curate
 subscribe: false
 
 projects:
-  heading: "" # "Projects"
-  sub_heading: "" # "A collection of our recent work"
+  heading: "From Recent Research" # "Research"
+  sub_heading: ""
   limit: 4
   sort: weight # date | weight
   view_more_button_text: "" # "More Projects"
