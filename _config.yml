@@ -112,10 +112,10 @@ logo:
   logo_image_mobile: assets/images/logo/logoB.png
   logo_image_invert: assets/images/logo/logoW.png
   logo_image_invert_mobile: assets/images/logo/logoW.png
-  logo_image_desktop_height: "80px"
-  logo_image_desktop_width: "200px"
-  logo_image_mobile_height: "80px"
-  logo_image_mobile_width: "200px"
+  logo_image_desktop_height: "74px"
+  logo_image_desktop_width: "260px"
+  logo_image_mobile_height: "74px"
+  logo_image_mobile_width: "260px"
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
   show_logo_text_on_mobile: false
