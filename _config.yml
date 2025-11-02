@@ -108,10 +108,10 @@ fonts:
 
 logo:
   logo_text: "MBZUAI"
-  logo_image: assets/images/logo/logoB.svg
-  logo_image_mobile: assets/images/logo/logoB.svg
-  logo_image_invert: assets/images/logo/logoW.svg
-  logo_image_invert_mobile: assets/images/logo/logoW.svg
+  logo_image: assets/images/logo/logoB.png
+  logo_image_mobile: assets/images/logo/logoB.png
+  logo_image_invert: assets/images/logo/logoW.png
+  logo_image_invert_mobile: assets/images/logo/logoW.png
   logo_image_desktop_height: "80px"
   logo_image_desktop_width: "200px"
   logo_image_mobile_height: "80px"
